@@ -10,7 +10,7 @@ let aboutHero =
 
 console.log("Coloque um nome no seu personagem: " + nickname);
 
-console.log("Esscolha a classe de " + nickname + ": " + type);
+console.log("Escolha a classe de " + nickname + ": " + type);
 
 console.log(aboutHero);
 
